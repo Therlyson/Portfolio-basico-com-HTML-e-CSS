@@ -1,7 +1,7 @@
 
 # Projeto de portfólio básico com HTML e CSS!
 
-![alt text](<Captura de tela 2024-02-13 114740.png>)
+<img src="imagens/Captura de tela 2024-02-13 114740.png">
 
 ## Ferramentas utilizadas:
 
